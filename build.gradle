@@ -1,0 +1,7 @@
+plugins {
+    id("org.jetbrains.kotlin.multiplatform").version("1.8.10").apply(false)
+}
+
+tasks.register("clean", Delete) {
+    delete(rootProject.buildDir)
+}
