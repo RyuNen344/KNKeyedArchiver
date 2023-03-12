@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+# for Xcode Run Script
+export PATH=$PATH:/Users/User/.sdkman/candidates/java/current/bin:
+export JAVA_HOME=/Users/User/.sdkman/candidates/java/current
