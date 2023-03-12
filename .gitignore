@@ -7,4 +7,8 @@ captures
 .externalNativeBuild
 .cxx
 local.properties
-xcuserdata
+/.build
+/Packages
+/*.xcodeproj
+xcuserdata/
+DerivedData/
